@@ -17,10 +17,7 @@ Cybersecurity Student
 Wrocław University of Science and Technology • Offensive Security Learner 
 </p>
 
-<img 
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=8&duration=2000&pause=0&color=00FF00&center=false&vCenter=false&width=1000&lines=___________________________________________________________________________________________________________________________________________________________________________________________________" 
-  width="100%"
-/>
+
 
  
 
