@@ -7,45 +7,28 @@
   </a>
 </p>
 
-
-
-<h2 align="center">
-Cybersecurity Student
-</h2>
-
+<h2 align="center">Cybersecurity Student</h2>
 <p align="center">
 Wrocław University of Science and Technology • Offensive Security Learner 
 </p>
 
-
-
- 
-
-<h2 align="center">
-🧠 TryHackMe
-</h2>
-
+<h2 align="center">🧠 TryHackMe</h2>
 <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/vevv.png"
+  <img src="https://tryhackme-badges.s3.amazonaws.com/vevv.png" />
 </p>
-
 <p align="center">
   🔗 https://tryhackme.com/p/vevv
 </p>
 
-
-
-
-<h2 align="center">
-🛠 Technologies
-</h2>
-
+<h2 align="center">🛠 Technologies</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,linux,git,docker,bash,js,react,nodejs,aws,arch,terraform,html,css,sqlite,django,autocad,figma,latex,postgres" />
 </p>
 
-
-
+<h2 align="center">📊 Most Used Languages</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TWOJA_NAZWA&layout=compact&theme=tokyonight&langs_count=6" />
+</p>
 
 <p align="center">
   <img 
