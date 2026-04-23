@@ -27,7 +27,7 @@ Wrocław University of Science and Technology • Offensive Security Learner
 
 <h2 align="center">📊 Most Used Languages</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TWOJA_NAZWA&layout=compact&theme=tokyonight&langs_count=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vev999&layout=compact&theme=tokyonight&langs_count=6" />
 </p>
 
 <p align="center">
