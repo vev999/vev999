@@ -20,9 +20,9 @@ Wrocław University of Science and Technology • Offensive Security Learner
   🔗 https://tryhackme.com/p/vevv
 </p>
 
-<h2 align="center">🛠 Technologies</h2>
+<h2 align="center">Technologies</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,linux,git,docker,bash,js,react,nodejs,aws,arch,terraform,html,css,sqlite,django,autocad,figma,latex,postgres" />
+  <img src="https://skillicons.dev/icons?i=python,linux,git,docker,bash,js,react,nodejs,aws,arch,terraform,html,css,sqlite,django,autocad,figma,latex,postgres,kotlin,kubernetes,raspberrypi,wordpress,obsidian,githubactions,elasticsearch,azure,androidstudio" />
 </p>
 
 <h2 align="center">📊 Most Used Languages</h2>
