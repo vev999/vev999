@@ -25,9 +25,10 @@ Wrocław University of Science and Technology • Offensive Security Learner
   <img src="https://skillicons.dev/icons?i=python,linux,git,docker,bash,js,react,nodejs,aws,arch,terraform,html,css,sqlite,django,autocad,figma,latex,postgres" />
 </p>
 
-<h2 align="center">Most Used Languages</h2>
+<h2 align="center">📊 Most Used Languages</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vev999&layout=compact&theme=tokyonight&langs_count=6&cache_seconds=1800&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vev999&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vev999&theme=tokyonight" />
 </p>
 
 <p align="center">
